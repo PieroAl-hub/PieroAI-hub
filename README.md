@@ -3,8 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/piero.ard"><img src="assets/myinstagram.png" height="34" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:dangelz133@gmail.com"><img src="assets/mygmail.png" height="34" alt="Gmail"></a>
+  <a href="https://instagram.com/piero.ard">
+    <img src="https://img.shields.io/badge/Instagram-piero.ard-1F6FEB?style=flat-square&logo=instagram&logoColor=white" height="26" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:dangelz133@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dangelz133-1F6FEB?style=flat-square&logo=gmail&logoColor=white" height="26" />
+  </a>
 </p>
 
 <img src="assets/line.gif" height="18" width="100%">
