@@ -15,7 +15,7 @@
 
 <br>
 
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="cat gif">
+<img align="right" src="assets/monkey.gif" width="220" alt="monkey gif">
 
 ### 👤 About me
 
@@ -35,7 +35,13 @@
 ### ⚙️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,mysql,mongodb,sqlite,firebase,docker,vscode,idea,git&theme=dark" />
+  <b>Languages:</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,java,php,js&theme=dark" /><br><br>
+  <b>Databases:</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase&theme=dark" /><br><br>
+  <b>Tools & Platforms:</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker,vscode,idea,git,anaconda,jupyter&theme=dark" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" height="47" />
 </p>
 
 <img src="assets/line.gif" height="18" width="100%">
@@ -43,14 +49,14 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=PieroAl-hub&theme=omni&hide_border=true&sideNums=58A6FF&fire=58A6FF&dates=58A6FF&ring=58A6FF" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PieroAl-hub&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Piero's%20Most%20Used%20Languages&text_color=58A6FF">
-  <img src="https://github-readme-stats.vercel.app/api?username=PieroAl-hub&show_icons=true&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=58A6FF&include_all_commits=true&count_private=true"><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PieroAl-hub&theme=omni" width="33%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PieroAl-hub&theme=omni" width="33%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PieroAl-hub&theme=omni&utcOffset=-5" width="33%"><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PieroAl-hub&theme=omni" width="100%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PieroAl-hub&point=58A6FF&title_color=58A6FF&bg_color=191622&line=1F6FEB&hide_border=true&area=true&area_color=58A6FF&color=58A6FF">
+  <img src="https://streak-stats.demolab.com/?user=PieroAl-hub&theme=dark&hide_border=true&background=0D1117&sideNums=58A6FF&fire=58A6FF&dates=8B949E&ring=58A6FF&stroke=0D1117&currStreakLabel=58A6FF" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PieroAl-hub&theme=dark&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Piero's%20Most%20Used%20Languages&bg_color=0D1117&title_color=58A6FF&text_color=8B949E">
+  <img src="https://github-readme-stats.vercel.app/api?username=PieroAl-hub&show_icons=true&line_height=30&rank_icon=github&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=true"><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PieroAl-hub&theme=github_dark" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PieroAl-hub&theme=github_dark" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PieroAl-hub&theme=github_dark&utcOffset=-5" width="33%"><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PieroAl-hub&theme=github_dark" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PieroAl-hub&point=58A6FF&title_color=58A6FF&bg_color=0D1117&line=1F6FEB&hide_border=true&area=true&area_color=1F6FEB&color=8B949E">
   <p align="center"><img src="assets/snakegridtitle.gif" width="500"></p>
   <img src="https://raw.githubusercontent.com/PieroAl-hub/PieroAI-hub/snake/github-snake-dark.svg" width="100%"><br>
   <img src="https://raw.githubusercontent.com/PieroAl-hub/PieroAI-hub/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
@@ -59,8 +65,7 @@
 <img src="assets/line.gif" height="18" width="100%">
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=58A6FF&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=58A6FF" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=58A6FF&authorColor=8B949E&backgroundColor=0D1117&symbolColor=1F6FEB" />
 </p>
 
 <img src="assets/footer.svg" width="100%">
-
